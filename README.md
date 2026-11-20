@@ -3,7 +3,7 @@
 cwal is a Pywal clone in C. It reads an image, runs k-means
 color quantization to extract a 16-color palette, applies dark/light
 adjustment, pushes the result to every open terminal via OSC escape sequences,
-and writes a `colors.json` plus 28 templated config files to the cache dir.
+and writes a `colors.json` plus 31 templated config files to the cache dir.
 
 ## What's new in 0.1 release
 - **Template engine**: all 31 pywal templates are vendored under `templates/`
@@ -133,7 +133,7 @@ A second run on the same image + flags loads the cache instead of regenerating.
 | `$XDG_CACHE_HOME/wal/colors.json` | the palette (pywal format) |
 | `$XDG_CACHE_HOME/wal/sequences` | raw OSC escape blob, `cat`able into a new terminal |
 | `$XDG_CACHE_HOME/wal/schemes/*.json` | per-image cache files |
-| `$XDG_CACHE_HOME/wal/colors.{sh,css,Xresources,…}` | 28 templated config files |
+| `$XDG_CACHE_HOME/wal/colors.{sh,css,Xresources,…}` | 31 templated config files |
 
 ## What's intentionally absent
 - Built-in theme library (250+ themes in pywal) — bring your own `colors.json`.
