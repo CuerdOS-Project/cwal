@@ -6,7 +6,7 @@ adjustment, pushes the result to every open terminal via OSC escape sequences,
 and writes a `colors.json` plus 28 templated config files to the cache dir.
 
 ## What's new in 0.1 release
-- **Template engine**: all 28 pywal templates are vendored under `templates/`
+- **Template engine**: all 31 pywal templates are vendored under `templates/`
   and applied on every run. Output files land in `~/.cache/wal/` with the
   same names pywal produces (`colors.sh`, `colors.css`, `colors.Xresources`,
   `colors-kitty.conf`, `colors.hs`, `colors.yml`, etc.), so existing dotfiles
