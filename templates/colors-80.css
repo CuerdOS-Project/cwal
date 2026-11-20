@@ -1,0 +1,21 @@
+@define-color foreground8 {foreground};
+@define-color background8 rgba({background.rgb},0.8);
+@define-color cursor8 {cursor};
+
+@define-color color80 rgba({color0.rgb},0.8);
+@define-color color81 rgba({color1.rgb},0.8);
+@define-color color82 rgba({color2.rgb},0.8);
+@define-color color83 rgba({color3.rgb},0.8);
+@define-color color84 rgba({color4.rgb},0.8);
+@define-color color85 rgba({color8.rgb},0.8);
+@define-color color86 rgba({color6.rgb},0.8);
+@define-color color87 rgba({color7.rgb},0.8);
+@define-color color88 rgba({color8.rgb},0.8);
+@define-color color89 rgba({color9.rgb},0.8);
+@define-color color810 rgba({color10.rgb},0.8);
+@define-color color811 rgba({color11.rgb},0.8);
+@define-color color812 rgba({color12.rgb},0.8);
+@define-color color813 rgba({color13.rgb},0.8);
+@define-color color814 rgba({color14.rgb},0.8);
+@define-color color815 rgba({color15.rgb},0.8);
+

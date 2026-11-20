@@ -1,0 +1,15 @@
+[colors]
+background={color0.strip}ff
+text=ffffffff
+prompt=ffffffff
+input=ffffffff
+placeholder=ffffffff
+
+# Sin un color adicional para las coincidencias.
+match=ffffffff
+
+selection={color1.strip}ff
+selection-text=000000ff
+selection-match=000000ff
+
+border={color6.strip}ff

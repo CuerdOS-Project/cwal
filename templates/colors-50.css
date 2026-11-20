@@ -1,0 +1,21 @@
+@define-color foreground5 {foreground};
+@define-color background5 rgba({background.rgb},0.5);
+@define-color cursor5 {cursor};
+
+@define-color color50 rgba({color0.rgb},0.5);
+@define-color color51 rgba({color1.rgb},0.5);
+@define-color color52 rgba({color2.rgb},0.5);
+@define-color color53 rgba({color3.rgb},0.5);
+@define-color color54 rgba({color4.rgb},0.5);
+@define-color color55 rgba({color5.rgb},0.5);
+@define-color color56 rgba({color6.rgb},0.5);
+@define-color color57 rgba({color7.rgb},0.5);
+@define-color color58 rgba({color8.rgb},0.5);
+@define-color color59 rgba({color9.rgb},0.5);
+@define-color color510 rgba({color10.rgb},0.5);
+@define-color color511 rgba({color11.rgb},0.5);
+@define-color color512 rgba({color12.rgb},0.5);
+@define-color color513 rgba({color13.rgb},0.5);
+@define-color color514 rgba({color14.rgb},0.5);
+@define-color color515 rgba({color15.rgb},0.5);
+
